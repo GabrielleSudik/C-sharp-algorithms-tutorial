@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\End\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\End\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\End\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\End\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\End\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\End\LinearSearch\obj\Debug\LinearSearch.pdb

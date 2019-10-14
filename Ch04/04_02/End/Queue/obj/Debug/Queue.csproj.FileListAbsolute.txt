@@ -1,0 +1,12 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_02\End\Queue\bin\Debug\Queue.exe.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_02\End\Queue\bin\Debug\Queue.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_02\End\Queue\bin\Debug\Queue.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_02\End\Queue\obj\Debug\Queue.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_02\End\Queue\obj\Debug\Queue.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_02\End\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\Queue\bin\Debug\Queue.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\Queue\bin\Debug\Queue.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\Queue\bin\Debug\Queue.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\Queue\obj\Debug\Queue.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_02\End\Queue\obj\Debug\Queue.pdb

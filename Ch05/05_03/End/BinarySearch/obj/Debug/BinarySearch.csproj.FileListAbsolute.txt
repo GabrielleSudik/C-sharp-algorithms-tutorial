@@ -1,0 +1,11 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch05\05_03\End\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch05\05_03\End\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch05\05_03\End\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch05\05_03\End\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch05\05_03\End\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\End\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\End\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\End\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\End\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\End\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\End\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache

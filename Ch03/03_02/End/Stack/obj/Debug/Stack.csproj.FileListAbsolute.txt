@@ -1,0 +1,12 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_02\End\Stack\bin\Debug\Stack.exe.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_02\End\Stack\bin\Debug\Stack.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_02\End\Stack\bin\Debug\Stack.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_02\End\Stack\obj\Debug\Stack.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_02\End\Stack\obj\Debug\Stack.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_02\End\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\Stack\bin\Debug\Stack.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\Stack\bin\Debug\Stack.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\Stack\bin\Debug\Stack.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\Stack\obj\Debug\Stack.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_02\End\Stack\obj\Debug\Stack.pdb

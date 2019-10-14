@@ -1,0 +1,109 @@
+Learning C# Algorithms
+by Reynald Adolphe on Lynda/LIL Oct 2019
+
+FYI: To run the code, make sure you set the project you're working in as default.
+Right-click the project name, set it to start.
+NOTE: all of your code and nodes will be in the first "Begin" folders in each chapter,
+unless noted below.
+
+Algorithms are the steps a program follows to complete a task.
+There are several common ones. This lesson will cover simple ones.
+
+Reasons: calculations, data processing, automated tasks.
+
+When to use: Compressing data, sorting, generating random data.
+
+.NET has libraries that do these, so you might not have to learn how they work.
+Knowing how they work allows you to tweak them or write your own.
+
+Much of this guy's lessons involve showing how the .net
+built-in classes and methods work, by writing our own classes and methods.
+Then wraps up with a walk-through use of the actual .net classes.
+
+
+Linked Lists:
+Start by comparing to an array:
+You can insert data at any point,
+It can increase in size.
+Each point on the list is a "node".
+The start is the "head", the end is the "tail".
+Each node points to the next node.
+(But not to the previous node.)
+Think of each node as the instance of a node class.
+Each one is the same structure, but contents vary.
+
+See LinkedList code here: 
+LinkedList -- Program.cs in Begin 02_02 (linked list demo)
+and End 02_04 (code walkthrough of a .net library)
+
+To see what's behind the LinkedList<T> from the library,
+go to its definition. You'll see stuff like all of its methods
+(addBefore, addLast, clear, addFirst, etc...)
+
+
+The Stack:
+Serves as a collection of elements.
+It's really just a bunch of things piled on top of each other.
+Push: add an element.
+Pop: remove the most recently added element.
+Last in, first out.
+Something about, the data itself isn't really on a stack,
+just references/pointers to the data are on the stack??
+
+Your code and notes: 03_02 Begin Program.cs and
+(03_04 End Program.cs has a walkthrough written by prof,
+of the .net Stack class. But you took no notes. It's simple.)
+
+
+The Queue:
+A collection of elements, ordered by first in, first out.
+"Enqueue'd" added to queue.
+"Dequeued'd" removed from queue.
+
+04_02 Begin Program.cs has your code and notes.
+04_04 End Program.cs is a walkthrough of the .net Queue class.
+Like with Stack and LL; you can check it out for its
+built-in methods, etc.
+
+
+Binary Search:
+Finds the position of a target value within a sorted array.
+Sorted is key here; without the sort, it won't work.
+How does it work? Compares the target to the middle of the array,
+eliminating one-half of the array each time until it hits the item.
+(Sounds like the I'm Thinking of a Number game.)
+
+Three key elements:
+p is the index of the first element,
+q is the index of the midpoint,
+r is the index of the last element.
+And:
+a is the array itself.
+n is the length (a.length - 1).
+x will be the value we search for.
+
+The theory:
+p will be 0. (start of array)
+r will be n. (end of array)
+q = (p+r)/2 (finds midpoint)
+
+Eliminating halves of the array:
+If x < a[q] (ie if number is in lower half), then the new r = q-1.
+If x > a[q] (ie if number is in upper half), then the new p = q+1.
+Return q if x=q.
+Return -1 (outside of array) if there is no x in the array.
+
+
+05_02 Begin Program.cs and notes in 05_03 End Program.cs
+
+Linear Search:
+Looks for a target value in a list BUT it is not efficient.
+It checks each element in the list until a match is found (or not found).
+There is no sorting, and eliminating by halves as in a binary search.
+
+Start with the array and the target int.
+For each index from 0 to n (array.length-1),
+check if index value = target int. If a match,
+return it. Otherwise, return -1 (outside array).
+
+Check 06_02 Begin Program.cs

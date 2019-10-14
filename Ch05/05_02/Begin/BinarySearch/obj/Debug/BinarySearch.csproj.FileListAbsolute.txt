@@ -1,0 +1,13 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch05\05_02\Begin\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch05\05_02\Begin\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch05\05_02\Begin\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.pdb

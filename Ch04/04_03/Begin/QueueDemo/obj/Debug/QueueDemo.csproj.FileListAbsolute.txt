@@ -1,0 +1,5 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_03\End\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_03\End\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_03\End\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_03\End\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch04\04_03\End\QueueDemo\obj\Debug\QueueDemo.pdb

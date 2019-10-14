@@ -1,0 +1,13 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Begin\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Begin\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Begin\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.pdb
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch06\06_02\Begin\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch06\06_02\Begin\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch06\06_02\Begin\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.csprojAssemblyReference.cache
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.pdb

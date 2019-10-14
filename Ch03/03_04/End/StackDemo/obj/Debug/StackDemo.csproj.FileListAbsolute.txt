@@ -1,0 +1,16 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_03\End\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_03\End\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_03\End\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_03\End\StackDemo\obj\Debug\StackDemo.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\Algorithms\Ch03\03_03\End\StackDemo\obj\Debug\StackDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\End\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\End\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\End\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\End\StackDemo\obj\Debug\StackDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch03\03_04\End\StackDemo\obj\Debug\StackDemo.pdb
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch03\03_04\End\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch03\03_04\End\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch03\03_04\End\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch03\03_04\End\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch03\03_04\End\StackDemo\obj\Debug\StackDemo.exe
+C:\Users\Gabri\Documents\Tutorials\Algorithms Intro Lynda\Ex_Files_Learning_C_Sharp_Algorithms\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch03\03_04\End\StackDemo\obj\Debug\StackDemo.pdb

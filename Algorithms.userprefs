@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2CD6DE07-D810-4628-AE8D-039C8D2B1022}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ch06/06_03/End/LinearSearch/Program.cs">
+    <Files>
+      <File FileName="Ch06/06_03/End/LinearSearch/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2._220LinkedList.02__02.Begin.LinkedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
